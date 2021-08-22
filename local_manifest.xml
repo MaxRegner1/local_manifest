@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="gitlab" fetch="https://gitlab.com" />
+  <project path="kernel/motorola/exynos9610" name="moto-9609/android_kernel_motorola_exynos9610" remote="github" revision="lineage-18.1" />
+  <project path="device/motorola/exynos9610-common" name="moto-9609/android_device_motorola_exynos9610-common" remote="github" revision="lineage-18.1" />
+  <project path="vendor/motorola/exynos9610-common" name="Stricted/android_vendor_motorola_exynos9610-common" remote="gitlab" revision="lineage-18.1" />
+  <project path="vendor/motorola/troika" name="moto-9609/android_vendor_motorola_troika" remote="github" revision="lineage-18.1" />
+  <project path="vendor/motorola/kane" name="moto-9609/android_vendor_motorola_kane" remote="github" revision="lineage-18.1" />
+  <project path="device/motorola/troika" name="moto-9609/android_device_motorola_troika" remote="github" revision="lineage-18.1" />
+  <project path="device/motorola/kane" name="moto-9609/android_device_motorola_kane" remote="github" revision="lineage-18.1" />
+  <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="github" revision="lineage-18.1" />
+  <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="github" revision="lineage-18.1" />
+  <project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" remote="github" revision="lineage-18.1" />
+  <project path="hardware/samsung_slsi/fm" name="LineageOS/android_hardware_samsung_slsi_fm" remote="github" revision="lineage-18.1" />
+</manifest>
